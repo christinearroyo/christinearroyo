@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christine Arroyo!
-👩‍💻 Web Design, Software Developer
-🏫 Computer Science Student at LSPU Sta. Cruz 
+# 👋 Hi, I'm Christine Arroyo!<br>
+👩‍💻 Web Design, Software Developer<br>
+🏫 Computer Science Student at LSPU Sta. Cruz<br>
 🌱

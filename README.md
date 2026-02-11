@@ -65,17 +65,21 @@ Always learning. Always improving. 0.01% daily!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Reliable)
 
-![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=radical)
+![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christinearroyo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christinearroyo&layout=compact&theme=tokyonight&hide_border=true&count_private=false)
+
+> ⚠️ Stats only reflect **public repos** for reliability.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Reliable)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=christinearroyo&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=christinearroyo&theme=tokyonight&no-frame=true&margin-w=10&column=5&row=1)
+
+> ⚠️ Only public achievements show reliably.
 
 ---
 

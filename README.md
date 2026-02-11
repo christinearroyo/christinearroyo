@@ -67,7 +67,7 @@ Always learning. Always improving. 0.01% daily!
 
 ## 📊 GitHub Stats
 
-![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=tokyonight&hide_border=true)
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christinearroyo&layout=compact&theme=tokyonight&hide_border=true)
 

@@ -1,50 +1,79 @@
-# Christine Arroyo
+# 👩🏻‍💻 Christine Arroyo
 
-🎓 2nd Year BS Computer Science Student  
-Laguna State Polytechnic University – Sta. Cruz Main Campus  
+🎓 2nd Year BSCS Student  
+📍 Laguna State Polytechnic University – Sta. Cruz Main Campus  
 
-## About Me
+---
 
-I build things with code.  
-From web applications to software systems, games, and UI/UX designs —  
-I enjoy turning ideas into working products.
+## 🌿 About Me
 
-Currently exploring and improving every day.
+I build things with code —  
+from 🌐 web apps to 💻 software systems, 🎮 games, and 🎨 UI/UX designs.  
 
-## What I Do
+I enjoy transforming ideas into real, working products.  
+Always learning. Always improving. 0.01% daily!
 
-- 🌐 Web Development  
-- 💻 Software Development  
-- 🎮 Game Development  
-- 🎨 UI/UX Design  
+🔗 **More about my background:**  
+👉 [Visit My About Me Page](https://christinearroyo.github.io/AboutMe/)
 
-## Currently Learning
+---
 
-`Flet` • `Dart` • `Flutter` • `Arduino` • `Mobile Development`  
-`React` • `TypeScript` • `GAMA` • `Blender` • `Figma`
+## 🚀 What I Do
 
-## Tech Stack
+🌐 Web Development  
+💻 Software Development  
+🎮 Game Development  
+🎨 UI/UX Design  
 
-**Frontend**  
+---
+
+## 📚 Currently Learning
+
+🟣 Flet  
+🔵 Dart & Flutter  
+🟢 Arduino  
+📱 Mobile Development  
+⚛️ React & TypeScript  
+🌍 GAMA  
+🎨 Blender & Figma  
+
+---
+
+## 🛠 Tech Stack
+
+**🌐 Frontend**  
 HTML5 • CSS3 • JavaScript  
 
-**Backend / Programming**  
+**⚙️ Programming**  
 Python • C# • .NET Framework  
 
-**Database**  
+**🗄 Database**  
 MySQL Workbench  
 
-**Frameworks & Tools**  
-Unity • CustomTkinter • Windows App Development  
+**🧩 Tools & Frameworks**  
+Unity • CustomTkinter • Windows App Dev  
 Git • GitHub  
 
-## IDE & Tools I Use
+---
 
-Visual Studio 2022 (💜)  
-Visual Studio Code (💙)  
-PyCharm  
-Android Studio  
-Neovim  
+## 🖥 IDEs
 
-⭐ Always learning. Always building. 0.01% daily!
+💜 Visual Studio 2022  
+💙 Visual Studio Code  
+🐍 PyCharm  
+📱 Android Studio  
+⌨️ Neovim  
+
+---
+
+## ✨ Philosophy
+
+> Keep it simple.  
+> Build consistently.  
+> Improve daily.  
+
+---
+
+⭐ *In progress, not in perfection.*
+
 

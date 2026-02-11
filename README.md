@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Christine Arroyo
 
-🎓 2nd Year BSCS Student  
+🎓 2nd Year BS Computer Science Student  
 📍 Laguna State Polytechnic University – Sta. Cruz Main Campus  
 
 ---

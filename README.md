@@ -21,15 +21,6 @@ Always learning. Always improving. 0.01% daily!
 
 ---
 
-## 🚀 What I Do
-
-🌐 Web Development  
-💻 Software Development  
-🎮 Game Development  
-🎨 UI/UX Design  
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -51,20 +42,6 @@ Always learning. Always improving. 0.01% daily!
 
 ---
 
-## 📚 Currently Learning
-
-🟣 Flet  
-🔵 Dart & Flutter  
-🟢 Arduino  
-📱 Mobile Development  
-⚛️ React & TypeScript  
-🌍 GAMA  
-🎨 Blender & Figma  
-🔁 n8n Automation  
-🤖 AI Automation & Workflows  
-
----
-
 ## 📊 GitHub Stats (Reliable)
 
 ![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
@@ -80,19 +57,3 @@ Always learning. Always improving. 0.01% daily!
 ![Trophies](https://github-profile-trophy.vercel.app/?username=christinearroyo&theme=tokyonight&no-frame=true&margin-w=10&column=5&row=1)
 
 > ⚠️ Only public achievements show reliably.
-
----
-
-## 🖥 IDEs
-
-💜 Visual Studio 2022  
-💙 Visual Studio Code  
-🐍 PyCharm  
-📱 Android Studio  
-⌨️ Neovim  
-
----
-
-## ✨ Philosophy
-
-> Our Future is up to us. — Enola Holmes

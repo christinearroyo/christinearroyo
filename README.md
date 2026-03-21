@@ -1,27 +1,34 @@
 # 👩🏻‍💻 Christine Arroyo
 
+🚀 **Welcome to my GitHub!**  
+I’m Christine, a student developer turning ideas into digital realities.  
+
 🎓 2nd Year BS Computer Science Student  
 📍 Laguna State Polytechnic University – Sta. Cruz Main Campus  
 
----
-
-## 🌿 About Me
-
-I build things with code —  
-from 🌐 web apps to 💻 software systems, 🎮 games, and 🎨 UI/UX designs.  
-
-I enjoy transforming ideas into real, working products.  
-Always learning. Always improving. 0.01% daily!
-
-🔗 **More about my background:**  
-👉 [Visit My About Me Page](https://christinearroyo.github.io/AboutMe/)  
-
-💼 **Connect with me on LinkedIn:**  
-👉 [LinkedIn – Christine Arroyo](https://www.linkedin.com/in/chrstnearroyo/)
+![Header GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 ---
 
-## 🛠 Tech Stack
+## 🌌 About Me
+
+I build, I break, I rebuild — from 🌐 web apps to 💻 software systems, 🎮 games, and 🎨 sleek UI/UX designs.  
+
+*"Always learning. Always improving. 0.01% daily!"*  
+
+🔗 **More about me:** [Visit My About Me Page](https://christinearroyo.github.io/AboutMe/)  
+💼 **LinkedIn:** [Christine Arroyo](https://www.linkedin.com/in/chrstnearroyo/)  
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrstnearroyo/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christinearroyo)  
+
+---
+
+## ⚡ Tech Arsenal
 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,24 +43,27 @@ Always learning. Always improving. 0.01% daily!
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![AI_Automation](https://img.shields.io/badge/AI-Automation-6C63FF?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI-Automation-6C63FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats (Reliable)
+## 📊 GitHub Stats
 
-![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christinearroyo&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christinearroyo&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christinearroyo&layout=compact&theme=tokyonight&hide_border=true&count_private=false)
-
-> ⚠️ Stats only reflect **public repos** for reliability.
+> ⚠️ Stats only reflect **public repositories**.
 
 ---
 
-## 🏆 GitHub Trophies (Reliable)
+## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=christinearroyo&theme=tokyonight&no-frame=true&margin-w=10&column=5&row=1)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christinearroyo&theme=tokyonight&no-frame=true&margin-w=10&column=5&row=1" />
+</p>
 
 > ⚠️ Only public achievements show reliably.
